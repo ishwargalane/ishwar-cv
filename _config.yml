@@ -1,0 +1,22 @@
+# Site settings
+title: "Ishwar Galane - Resume"
+description: "Ishwar Galane - Resume"
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Ishwar Galane
+user_description: "Hi, I'm a Principal SRE from India, with more than 18 years of experience in the industry. \nIn my current role I am mentoring a small team to maintain and improve the CI-CD for our On-Prem and SAAS product offerings. I am actively engaged in setting up and maintaining infrastructure components using Terraform and GitLab Automation. When ever there is an opportunity I develop new tools using python to make the life easy for development teams. Cost being a primary concern nowadays, I am also continuously looking for new ways to efficiently utilise the resources and Optimise the Cost across the board. Currently I am focused on AWS as our primary cloud, whoever I am also a Microsoft Certified DevOps Engineer Expert (AZ-400) and Azure Administrator Associate (AZ-104). I am a self-motivated, consummate team player with the ability to quickly learn and adapt to new technologies. I have good interpersonal and communication skills, written and oral. I can handle complex projects and prioritise tasks in a high-pressure environment."
+user_title: "Site Reliability Engineer"
+email: ishwar.galane@gmail.com
+# twitter_username: lorem_ipsum
+#instagram_username: mauriciourraco7
+#facebook_username: mauricio.urraco
+linkedin_username: ipgalane
+github_username:  ishwargalane
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
